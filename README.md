@@ -6,3 +6,6 @@ git add .
 git commit -m "Commit Take 13"
 git remote add origin https://github.com/alokpatra/SpringBoot-Assgn_1
 git push origin master
+
+After adding readme.md file update local dir by 
+git pull
